@@ -1,6 +1,6 @@
 ## WeatherX | Live Weather - React App
 
-### [Demo Link](https://weatherx-live.netlify.app/) 🔗
+### [Demo Link](https://weather-davido.netlify.app/) 🔗
 
 Live Weather Searching React App, built with the help of **OpenWeather API**.
 
